@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">archivosexte</string>
+
+
+    <string name="msj">Escribe algo</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardar">Guardar</string>
+    <string name="Abrir">Abrir</string>
+</resources>
